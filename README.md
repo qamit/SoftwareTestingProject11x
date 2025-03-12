@@ -1,4 +1,4 @@
-Test documents of the project added/created by myself are as follows:
+📚 Test documents of the project added/created by myself are as follows:
 
 1. Test plans Template 
 2. Test cases in (.xlsx)
@@ -8,5 +8,5 @@ Test documents of the project added/created by myself are as follows:
 
 
 
-Project #1 - app.vwo.com
+🚀 Project #1 - app.vwo.com
 Objective - To test the Login page of app.vwo.com, Login and Dashboard and generate the Test Plan, Testcases.
